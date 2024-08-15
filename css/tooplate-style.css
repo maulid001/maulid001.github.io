@@ -1053,5 +1053,9 @@ http://www.tooplate.com/view/2098-health
       letter-spacing: 1px;
     }
 
+     #about {
+   visibility:hidden; 
+    }
+
   }
 
